@@ -19,6 +19,8 @@ I have been studying programming for a few months.
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/NatSanLeo?tab=repositories).
 - ⚡ Fun fact:  I want to be a farmer.
 
- El coraje es ir de fracaso en fracaso sin pérdida de entusiasmo (Winston S. Churchill)
 
-Bye!
+
+☀️☀️ El coraje es ir de fracaso en fracaso sin pérdida de entusiasmo (Winston S. Churchill)☀️☀️
+
+Bye! 😊
