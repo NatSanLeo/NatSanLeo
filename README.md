@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, my name is Natalia, I'm from Colombia.
 
-<!--
-**NatSanLeo/NatSanLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I have been studying programming for a few months.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Current tecnologies:
+<img src="https://img.shields.io/badge/-Postman-darkorange"/> <img src="https://img.shields.io/badge/-Java-blue"/> <img src="https://img.shields.io/badge/-AWS-orange"/> 
+
+
+
+
+
+### A little about me:
+
+- 🌱 I’m currently learning Java.
+- 👯 I’m currently working in a Neo Bank in Colombia like a Manual QA.
+- 📫 Feel free to follow me on  [Instagram](https://www.instagram.com/natalia_710_sl?igsh=bTBxNHNldzZ4YTZs&utm_source=qr).
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/NatSanLeo?tab=repositories).
+- ⚡ Fun fact:  I want to be a farmer.
+
+ El coraje es ir de fracaso en fracaso sin pérdida de entusiasmo (Winston S. Churchill)
+
+Bye!
